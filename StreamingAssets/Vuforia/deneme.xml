@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cigarette" size="250.000000 450.450439" />
+    <ImageTarget name="damak" size="250.000000 122.812500" />
+  </Tracking>
+</QCARConfig>
